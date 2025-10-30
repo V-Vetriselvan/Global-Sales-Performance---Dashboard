@@ -49,5 +49,3 @@ The top row highlights the overall scale and efficiency of the global operation:
 
 - **Data Source:** Global Sales Database (Transactional Data)
 - **Time Period:** 2016 – 2021 (for trends); YTD metrics provided
-- **Dashboard Platform:** [**INSERT PLATFORM HERE, e.g., Tableau / Power BI**]
-- **Last Updated:** [**INSERT DATE HERE**]
